@@ -1,4 +1,4 @@
-# Caso Bookshop – Enunciado (versión adaptada)
+# Caso Bookshop – Enunciado
 
 ## 1. Contexto
 
